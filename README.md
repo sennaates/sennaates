@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Merhaba!+Profilime+Hoş+Geldin;Kod+Yazmayı+Seviyorum;Projelerimi+Aşağıda+İnceleyebilirsin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Sena;Yazılım+Mühendisliği+Öğrencisiyim;Full-Stack+Geliştirici+Adayıyım" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,12 +8,12 @@
 
 ---
 
-Merhaba! Ben bir yazılım geliştiricisiyim (veya öğrencisiyim). Yeni teknolojiler öğrenmeyi ve açık kaynak projeler geliştirmeyi seviyorum.
+Merhaba! Ben Sena Ateş. **Fırat Üniversitesi Yazılım Mühendisliği** öğrencisiyim. Öğrenmeye meraklı bir **Junior Software Engineer** adayı olarak, modern web teknolojileri ve yapay zeka destekli uygulamalar üzerine çalışıyorum.
 
-- 🔭 Şu anda **kendi projelerim** üzerinde çalışıyorum.
-- 🌱 Şu anda **Python ve Docker** öğreniyorum.
-- 💬 Bana **yazılım ve teknoloji** hakkında her şeyi sorabilirsin.
-- 📫 Bana ulaşmak için: **email@adresin.com**
+- 🌱 Şu anda **Docker ve Cloud Mimarileri** üzerine kendimi geliştiriyorum.
+- 💬 Bana **Yapay Zeka Entegrasyonları, Python ve Web Geliştirme** hakkında sorabilirsin.
+- ⚡ **Hedefim:** Ölçeklenebilir ve kullanıcı dostu yazılım çözümleri üretmek.
+- 📫 Bana ulaşmak için: **sena@senaates.com**
 
 ---
 
@@ -21,33 +21,46 @@ Merhaba! Ben bir yazılım geliştiricisiyim (veya öğrencisiyim). Yeni teknolo
   <h3>🛠️ Yeteneklerim & Araçlarım</h3>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <br/>
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </div>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</div>
+
+<div align="center">
+  <h3>🌱 Öğrenmeye Devam Ettiklerim</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+</div>
 
 <br/>
 
 <div align="center">
   <h3>📊 GitHub İstatistiklerim</h3>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=SENİN_KULLANICI_ADIN&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENİN_KULLANICI_ADIN&layout=compact&theme=radical" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sennaates&show_icons=true&theme=radical" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sennaates&layout=compact&theme=radical" height="180" alt="languages graph" />
 </div>
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SENİN_KULLANICI_ADIN&theme=radical" alt="streak stats" />
-</div>
-
-<br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/SENİN-LINKEDIN-ADRESİN">
+  <a href="https://linkedin.com/in/sennaates">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/SENİN-INSTAGRAM-ADRESİN">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="mailto:sena@senaates.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
