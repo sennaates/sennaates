@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Merhaba,+Ben+Sena !;Yazılım+Mühendisiyim !; Profilime + Hoş + Geldin!" alt="Typing SVG" />
-</div> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Merhaba,+Ben+Sena!;Yazılım+Mühendisiyim!;Profilime+Hoş+Geldin!" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <h3>🚀 Hakkımda</h3>
@@ -56,8 +56,10 @@ Merhaba! Ben Sena Ateş. **Fırat Üniversitesi Yazılım Mühendisliği** öğr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sennaates&layout=compact&theme=radical" height="180" alt="languages graph" />
 </div>
 
+<br/>
+
 <div align="center">
-  <a href="https://linkedin.com/in/sennaates">
+  <a href="https://www.linkedin.com/in/sennaates/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sena@senaates.com">
