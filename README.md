@@ -50,19 +50,3 @@ Merhaba! Ben Sena Ateş. **Fırat Üniversitesi Yazılım Mühendisliği** öğr
 
 <br/>
 
-<div align="center">
-  <h3>📊 GitHub İstatistiklerim</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=sennaates&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sennaates&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sennaates/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sena@senaates.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
