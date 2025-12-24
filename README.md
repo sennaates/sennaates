@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Merhaba!+Ben+Sena;Yazılım+Mühendisliği+Öğrencisiyim;Full-Stack+Geliştirici+Adayıyım" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3366CC&center=true&vCenter=true&width=435&lines=Merhaba,+Ben+Sena !;Yazılım+Mühendisiyim !; Profilime + Hoş + Geldin!" alt="Typing SVG" />
+</div> 
 
 <div align="center">
   <h3>🚀 Hakkımda</h3>
@@ -8,7 +8,7 @@
 
 ---
 
-Merhaba! Ben Sena Ateş. **Fırat Üniversitesi Yazılım Mühendisliği** öğrencisiyim. Öğrenmeye meraklı bir **Junior Software Engineer** adayı olarak, modern web teknolojileri ve yapay zeka destekli uygulamalar üzerine çalışıyorum.
+Merhaba! Ben Sena Ateş. **Fırat Üniversitesi Yazılım Mühendisliği** öğrencisiyim. Öğrenmeye meraklı bir **Junior Software Engineer** olarak, modern web teknolojileri ve yapay zeka destekli uygulamalar üzerine çalışıyorum.
 
 - 🌱 Şu anda **Docker ve Cloud Mimarileri** üzerine kendimi geliştiriyorum.
 - 💬 Bana **Yapay Zeka Entegrasyonları, Python ve Web Geliştirme** hakkında sorabilirsin.
