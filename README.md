@@ -8,7 +8,7 @@
 
 ---
 
-Merhaba! Ben Sena Ateş. **Fırat Üniversitesi Yazılım Mühendisliği** öğrencisiyim. Öğrenmeye meraklı bir **Junior Software Engineer** olarak, modern web teknolojileri ve yapay zeka destekli uygulamalar üzerine çalışıyorum.
+Merhaba! Ben Sena Ateş. Yazılımın hem teknik mutfağında hem de stratejik planlama süreçlerinde aktif rol alıyorum. Kullanıcı ihtiyaçlarını teknik gereksinimlere, veriyi anlamlı ürünlere dönüştürme odağımla full-stack geliştirme ve iş analizi süreçlerinin kesişiminde çalışıyorum.
 
 - 🌱 Şu anda **Docker ve Cloud Mimarileri** üzerine kendimi geliştiriyorum.
 - ⚡ **Hedefim:** Ölçeklenebilir ve kullanıcı dostu yazılım çözümleri üretmek.
